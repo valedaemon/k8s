@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: ww-database-secret
+type: Opaque
+data:
+  user: d2lyZXdoZWVsX3VzZXI=
+  password: NXFCS3NEbWs1ejFoVyZU
+  database: d2lyZXdoZWVs
